@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Home"
-    url: https://soumil-sahu.github.io/
+    url: /about/
   
   - title: "About"
-  #  url: /publications/
+    url: /about/
 
   #- title: "Talks"
   #  url: /talks/    
