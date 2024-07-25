@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "PhD life"
+    url : /phd_lyf/
+
   #- title: "Talks"
   #  url: /talks/    
 
