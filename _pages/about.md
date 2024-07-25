@@ -1,10 +1,7 @@
 ---
-permalink: /
-title: "Hello there! You have inspiralled into my homepage!"
+permalink: /about/
+title: "Let me tell you about me.."
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 ### To be updated
