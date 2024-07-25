@@ -1,5 +1,5 @@
 ---
-permalink: /home/
+permalink: /
 title: "Hello there! You have inspiralled into my homepage!"
 author_profile: true
 ---
