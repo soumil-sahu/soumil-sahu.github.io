@@ -4,7 +4,7 @@ main:
     url: /home/
   
   - title: "About"
-    url: /home/
+    url: /about_me/
 
   #- title: "Talks"
   #  url: /talks/    
